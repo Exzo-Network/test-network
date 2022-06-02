@@ -1,5 +1,5 @@
 {
-    "coreIp": "143.110.231.56",
+    "coreIp": "165.232.141.97",
     "p2pPort": 4102,
     "apiPort": 4103,
     "webhookPort": 4104,
@@ -8,7 +8,7 @@
     "explorerPort": 4200,
     "chainName": "Exzo Network",
     "token": "EXZN",
-    "databaseHost": "143.110.231.56",
+    "databaseHost": "165.232.141.97",
     "databasePort": "5432",
     "databaseName": "Exzo_Network_Core",
     "symbol": "Ӿ",
